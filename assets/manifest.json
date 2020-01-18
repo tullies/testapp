@@ -1,0 +1,20 @@
+{ 
+	"name": "-- TULBAGH LIVE --",
+	"short_name": "tullies",
+	"start_url": "/www.tullies2.co.za",
+	"display": "standalone", 
+	"theme_color": "#17181a",
+	"background_color": "#17181a",	
+	"icons": [ 
+	{ 
+	"src": "https://i.ya-webdesign.com/images/radio-button-png-18.png", 
+	"sizes": "192x192", 
+	"type": "image/png" 
+	}, 
+	{ 
+	"src": "https://cdn3.iconfinder.com/data/icons/navigation-and-settings/24/Material_icons-01-27-512.png",
+	"sizes": "512x512",
+	"type": "image/png" 
+	} 
+	]
+}
